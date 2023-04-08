@@ -1,13 +1,15 @@
 # console.log('Hello world  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />')
 
+Hi, I'm Diego Ramos.
+I love technology and everything that has to do with web development, passionate about the IT world and programming.
 
 ### About me
 
 - 👨‍💻 Currently I'm Analyst programmer at [CSTI Corp](https://csticorp.biz) by [Universidad San Ignacio de Loyola](https://usil.edu.pe/).
 - 🧑‍🎓 I'm a Systems Engineer from the [National University of Callao](https://unac.edu.pe/).
 - ❤️ I love technology and all its branches.
-- 📧 My personal mail ramos.diegoar@gmail.com
-- 🌱 I’m currently learning Docker, Azure, AWS and Jenkins
+- 📧 My personal mail is ramos.diegoar@gmail.com
+- 🌱 I’m currently learning Docker, Azure, AWS and Jenkins.
 
 
 <h3 align="left">Languages and Tools:</h3>
