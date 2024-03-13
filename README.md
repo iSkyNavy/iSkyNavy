@@ -5,7 +5,7 @@ I love technology and everything that has to do with web development, passionate
 
 ### About me
 
-- 👨‍💻 Currently I'm Software Developer at [Zoluxiones]([https://csticorp.biz](https://zoluxiones.com)).
+- 👨‍💻 Currently I'm Software Developer at [Zoluxiones](https://zoluxiones.com/).
 - 🧑‍🎓 I'm a Systems Engineer from the [National University of Callao](https://unac.edu.pe/).
 - ❤️ I love technology and all its branches.
 - 📧 My personal mail is ramos.diegoar@gmail.com
